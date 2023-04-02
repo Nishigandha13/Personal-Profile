@@ -1,0 +1,47 @@
+body {
+    background-color:#458484;
+    }
+    hr {
+        border-style:none;
+        border-top-style: dotted;
+        border-color:rgb(5, 68, 60);
+        border-width:7px;
+        width:25%;
+        }
+       
+        h3{
+            color:white
+        }
+        h1{
+
+        color: rgb(44, 69, 128);
+        }
+
+            h2{
+
+                color: #dcdcec;
+                }
+                u{
+                    color:black
+               }
+                
+        .n
+        {
+            margin-left: 27%;
+            margin-top: -200px;
+ 
+        }
+        .n1
+        {
+         height:100%;
+        width:50%;
+        float:right;
+ 
+        }
+        .n2
+        {height:100%;
+        width:50%;
+        float:left;
+ 
+        }
+    
